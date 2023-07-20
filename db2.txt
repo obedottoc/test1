@@ -1,9 +1,6 @@
 db2
 db2 work
-<<<<<<< HEAD
 db2work master.
 db2work2 master.
-=======
 
 db2work db2
->>>>>>> 163551c (db2work db2)
